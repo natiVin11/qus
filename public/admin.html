@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin Panel</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>Admin Panel</h1>
+  <h2>Add New Question</h2>
+  <input type="text" id="question" placeholder="Question">
+  <input type="text" id="option1" placeholder="Option 1">
+  <input type="text" id="option2" placeholder="Option 2">
+  <input type="text" id="option3" placeholder="Option 3">
+  <input type="text" id="correctAnswer" placeholder="Correct Answer (1, 2, or 3)">
+  <button onclick="addQuestion()">Add Question</button>
+
+  <h2>Submitted Answers</h2>
+  <div id="answers-container"></div>
+</div>
+<script src="admin.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+[
+  {
+    "question": "hi",
+    "options": [
+      "1",
+      "1",
+      "3"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "מה השם משפחה שלמנהל מערך השירות?",
+    "options": [
+      "כהן",
+      "הראל",
+      "ציק"
+    ],
+    "correctAnswer": 2
+  }
+]

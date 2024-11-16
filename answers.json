@@ -1,0 +1,34 @@
+[
+  {
+    "username": "בדיקי",
+    "score": 0,
+    "answers": [
+      2,
+      1
+    ]
+  },
+  {
+    "username": "בדיקי",
+    "score": 0,
+    "answers": [
+      0,
+      1
+    ]
+  },
+  {
+    "username": "בדיקי",
+    "score": 1,
+    "answers": [
+      0,
+      2
+    ]
+  },
+  {
+    "username": "בודק",
+    "score": 0,
+    "answers": [
+      2,
+      1
+    ]
+  }
+]
